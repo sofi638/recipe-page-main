@@ -1,0 +1,29 @@
+body {
+  background-color: hsl(30, 18%, 87%);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100vh;
+}
+
+.cont-recipe {
+  background-color: white;
+  width: 500px;
+  padding: 20px;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.img-omelette {
+  width: 400px;
+  border-radius: 5px;
+}
+
+.cont-time {
+  background-color: hsl(330, 100%, 98%);
+  border-radius: 5px;
+  width: 100%;
+}
